@@ -1,0 +1,13 @@
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\bin\Debug\TestXPath.exe.config
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\bin\Debug\TestXPath.exe
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\bin\Debug\TestXPath.pdb
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.Properties.Resources.resources
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.csproj.GenerateResource.Cache
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.csproj.CoreCompileInputs.cache
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.exe
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.pdb
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\bin\Debug\HtmlAgilityPack.dll
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\bin\Debug\HtmlAgilityPack.pdb
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\bin\Debug\HtmlAgilityPack.xml
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.Form1.resources
+D:\我的文档\Documents\Visual Studio 2017\Projects\TestXPath\TestXPath\obj\Debug\TestXPath.csprojResolveAssemblyReference.cache
